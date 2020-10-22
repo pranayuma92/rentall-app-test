@@ -2,7 +2,7 @@
   "name": "rentall-app-test",
   "version": "1.0.0",
   "description": "",
-  "main": "precache-manifest.fdc23f67f2c803f44a46a7d24370cf2b.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
