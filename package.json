@@ -1,0 +1,26 @@
+{
+  "name": "rentall-app-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "precache-manifest.fdc23f67f2c803f44a46a7d24370cf2b.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranayuma92/rentall-app-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranayuma92/rentall-app-test/issues"
+  },
+  "homepage": "https://github.com/pranayuma92/rentall-app-test#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "http-server": "^0.12.3"
+  }
+}
